@@ -16,7 +16,8 @@ Through this project, I practiced:
 
     ├── PlacePredModel.pkl        # Saved trained model
     ├── PlacementPredictor.ipynb   # Project notebook
-    └── README.md                 # Project overview
+    ├──README.md                 # Project overview
+    └── placement.csv            # dataset
 
 ## Explore the Project
 
